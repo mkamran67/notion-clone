@@ -1,0 +1,23 @@
+{
+  "name": "notion-clone",
+  "version": "1.0.0",
+  "description": "A shallow copy of Notion, for educational and fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkamran67/notion-clone.git"
+  },
+  "keywords": [],
+  "author": "Muhammad Kamran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkamran67/notion-clone/issues"
+  },
+  "homepage": "https://github.com/mkamran67/notion-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
